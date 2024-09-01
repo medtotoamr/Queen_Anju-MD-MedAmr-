@@ -21,7 +21,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "qQ8BhY5T#I5P5wPJo21XpSXXdDgtka6qwS0VUfq2FC5lrBhNElzo",
+SESSION_ID: process.env.SESSION_ID || "VAJIRA-MD=jU0TgLxQ#XX4mB2hZFHDBeGswGncbIaIBK5ltqVbgHJXTjee40uk",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/f64326277f3adb60ed204.jpg",
 ALIVE_MSG: process.env.ALIVE_MSG || "HELLOW THEIR, QUEEN ANJU IS ALIVE...\n\nOWNER: MED AMR\n\nTHANKS FOR USING QUEEN ANJU MD\n\n> *© Qᴜᴇᴇɴ ᴀɴᴊᴜ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*/n/n*> ɢɪᴛʜᴜʙ :* https://github.com/medamradmi/Queen_Anju-MD",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
